@@ -1,4 +1,4 @@
-# Configuration for CI build at https://travis-ci.org/spring-io/sagan
+# Configuration for CI build at https://travis-ci.org/spring-io/sagan - some change
 
 language: java
 
